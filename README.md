@@ -125,3 +125,6 @@ class table , ... reaal.docx: Class structures and relationships.
 Usecasediagram1.png: Visual use case diagram.
 
 NextSection_ProjectCode.rar: Source code and project files (extract to view).
+
+
+![Uploading Usecasediagram1.png…]()
